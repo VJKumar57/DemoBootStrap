@@ -1,3 +1,12 @@
+/* Apply styles to the <body> tag */
+
+body {
+  background-color: royalblue;
+}
+
+
+
+
 /* Apply styles to the <img> tag */
 img {
   max-width: 70%; /* Ensure the image does not exceed its container's width */
