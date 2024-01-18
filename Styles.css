@@ -44,3 +44,10 @@ img:hover {
     height: 300px; /* Adjust the height as needed */
     object-fit: cover; /* Ensures the image covers the entire container */
 }
+
+
+/* Apply styles to the <footer> tag */
+
+footer {
+  background-color: whiteSmoke;
+}
