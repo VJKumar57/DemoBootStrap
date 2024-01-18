@@ -25,3 +25,13 @@ img:hover {
     border: none; /* Removes any default image border */
     display: block; /* Fixes extra space below inline images */
 }
+
+.carousel-inner {
+    overflow: hidden;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 300px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensures the image covers the entire container */
+}
