@@ -49,5 +49,6 @@ img:hover {
 /* Apply styles to the <footer> tag */
 
 footer {
-  background-color: whiteSmoke;
+  background-color: whiteSmoke !important;
 }
+
