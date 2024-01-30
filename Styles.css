@@ -43,6 +43,9 @@ img:hover {
     object-fit: cover; /* Ensures the image covers the entire container */
 }
 
+.col-auto{
+margin-bottom: 20px;
+}
 
 /* Apply styles to the <footer> tag */
 
