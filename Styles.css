@@ -29,11 +29,9 @@ img:hover {
 }
 
 .circular-image {
-    width: 100%; /* Ensures the image takes the full width of the circular container */
-    height: auto;
-    border: none; /* Removes any default image border */
-    display: block; /* Fixes extra space below inline images */
+    border-radius: 50%;
 }
+
 
 .carousel-inner {
     overflow: hidden;
